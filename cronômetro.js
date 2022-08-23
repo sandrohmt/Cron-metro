@@ -110,6 +110,7 @@ function removeAllTimes() {
   listTimesHTML.innerHTML = `<ul id='listTimesHTML'>Meus tempos</ul>`
   times = []
   updateLocalStorage()
+  updateTimes()
 }
 stopWatch.innerHTML = `${twoDigits(hour)}:${twoDigits(minutes)}:${twoDigits(
   seconds
