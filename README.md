@@ -1,4 +1,4 @@
-# Cron-metro
+# Cronometro
 
 Website de cronômetro feito com HTML CSS e JavaScript
 
