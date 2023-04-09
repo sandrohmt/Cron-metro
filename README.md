@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/78877045/186046683-76ece177-c3da-439a-
 
 ## Para ver o projeto você mesmo: 
 
-[https://sandrohmt.github.io/Churrascometro/](https://sandrohmt.github.io/Cron-metro/)
+https://sandrohmt.github.io/Cron-metro/
 
 
 ## Contato:
